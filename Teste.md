@@ -1,1 +1,1 @@
-primeiro documento no git
+Editando o documento para fazer commit no git.
